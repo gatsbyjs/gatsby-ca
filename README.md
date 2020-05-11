@@ -1,15 +1,14 @@
 
-# Gatsby Catalan Translation
+# Gatsby en català
 
-This repo contains the Catalan translation for Gatsby.
+Aquest repositori conté la traducció oficial de la documentació de Gastby en català.
 
-Please refer to the [Translation Progress Issue](https://github.com/gatsbyjs/gatsby-ca/issues/1) to start translating!
+## Enllaços interessants
 
-Useful Links:
+* [Guia d'estil](/style-guide.md)
+* [Guia de traducció](https://www.gatsbyjs.org/contributing/gatsby-docs-translation-guide/)
+* [Discord de Gatsby](https://gatsby.dev/discord)
+* [Productes gratuïts de Gatsby pels traductors](https://www.gatsbyjs.org/contributing/contributor-swag/)
 
-* [Style Guide](/style-guide.md)
-* [Gatsby Translation Guide](https://www.gatsbyjs.org/contributing/gatsby-docs-translation-guide/)
-* [Gatsby Discord](https://gatsby.dev/discord)
-
-(Feel free to translate this document and add any content you feel would be useful to contributors).
+(Si us plau sentis lliure de traduir qualsevol document d'aquest repositori)
   
