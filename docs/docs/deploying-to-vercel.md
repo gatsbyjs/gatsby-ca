@@ -1,17 +1,17 @@
 ---
-title: Deploying to ZEIT Now
+title: Deploying to Vercel
 ---
 
-[ZEIT Now](https://zeit.co/now) is a cloud platform for websites and serverless APIs, that you can use to deploy your Gatsby projects to your personal domain (or a free `.now.sh` suffixed URL).
+[Vercel](https://vercel.com/home) is a cloud platform for websites and serverless APIs, that you can use to deploy your Gatsby projects to your personal domain (or a free `.vercel.app` suffixed URL).
 
 This guide will show you how to get started in a few quick steps:
 
-## Step 1: Installing Now CLI
+## Step 1: Installing VERCEL CLI
 
 To install their command-line interface with [npm](https://www.npmjs.com/), run the following command:
 
 ```shell
-npm install -g now
+npm i -g vercel
 ```
 
 ## Step 2: Deploying
